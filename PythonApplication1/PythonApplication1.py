@@ -55,7 +55,7 @@
 #        print(number,"EVEN",)
 
 
-#Exercise 6
+#Exercise 6 <- ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ.
 
 #number = int(input('tell me a number'))
 #if (number % 3 ==0):
@@ -65,7 +65,7 @@
 #else:
 #    print(number)
 
-#Exercise 7
+#Exercise 7 <- ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ.
 
 #limit = int(input('give a limit'))
 #for i in range(0,limit,3):
@@ -74,7 +74,7 @@
 #for i in range(0,limit,5):
 #    print(i)
 
-#Exercise 8
+#Exercise 8 <- ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ.
 
 #num = int(input('enter the number of rows'))
 #for i in range(1,num+1):
@@ -98,7 +98,7 @@
 #       else:
 #           print(num)
 
-#Exercise 1 a listes
+#Exercise 1 a listes <- ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ ΓΙΑ ΤΟ 1Α.
 
 # vowels list
 #vowels = ['a', 'e', 'i', 'o', 'i', 'u']
@@ -135,19 +135,19 @@
 #listof10withuser = [num1,num2,num3,num4,num5,num6,num7,num8,num9,num10]
 #print(listof10withuser)
 
-#Exercises 3
+#Exercises 3 <- ΛΑΘΟΣ.
 
 #list1 = list(input('give me a list'))
 #if 0 in list1 in all_text:
 #            print ('ok')
 
-#Exarcise 4
+#Exarcise 4 <- ΛΑΘΟΣ.
 
 #list1 = list(input('tell me a list of strings'))
 #if 'end' in list1 in all_text:
 #    print('ok')
 
-#Exexercise 5
+#Exexercise 5 <- ΛΕΙΠΕΙ Ο ΕΛΕΓΧΟΣ ΟΡΘΟΤΗΤΑΣ
 
 #num1 = int(input('tell me a number'))
 #num2 = int(input('tell me a number'))
@@ -162,7 +162,7 @@
 
 #print(((num1+num2+num3+num4+num5+num6+num7+num8+num9+num10) / 10))
 
-#Exercise 6
+#Exercise 6 <- ΛΑΘΟΣ. ΖΗΤΑΕΙ ΛΙΣΤΑ
 
 #num1 = int(input('tell me a number'))
 #num2 = int(input('tell me a number'))
@@ -171,18 +171,18 @@
 #minimum = min(num1,num2,num3)
 #print(minimum)
 
-#Exercise 7
+#Exercise 7 <- ΛΑΘΟΣ. ΔΕΝ ΔΙΑΒΑΖΟΥΜΕ ΛΙΣΤΑ ΕΤΣΙ
 
 #list1 = list(input('tell me a list of numbers'))
 
 #print(min(list1))
 
-#Exercise 8
+#Exercise 8 <- ΛΑΘΟΣ.
 
 #list1 = ['egg' , 'sifteocubes' , 'goateggnogoftornadoesandgoatlandianlanguage' , 'a' ]
 #print('goateggnogoftornadoesandgoatlandianlanguage')
 
-#Exercise 10
+#Exercise 10 <- ΛΑΘΟΣ. ΔΕΝ ΔΙΑΒΑΖΟΥΜΕ ΛΙΣΤΑ ΕΤΣΙ
 
 #list1 = list(input('tell me a list'))
 #num1 = int(input('tell me a number'))
@@ -190,24 +190,24 @@
 #count = list1.count(num1)
 #print(count)
 
-#Exercise 11
+#Exercise 11 <- ΛΑΘΟΣ. ΔΕΝ ΔΙΑΒΑΖΟΥΜΕ ΛΙΣΤΑ ΕΤΣΙ
 
 #list1 = list(input('tell me a list'))
 
 #length = len(list1)
 #print(length)
 
-#Exercises pack2 exercise 1
+#Exercises pack2 exercise 1 ZHTAEI ΣΥΝΑΡΤΗΣΗ.
 
 #name = input('tell me your name')
 #print(name * 10)
 
-#Exercise 2
+#Exercise 2 ZHTAEI ΣΥΝΑΡΤΗΣΗ.
 
 #name = input('tell me your name')
 #print(f'Welcome {name} !')
 
-#Exercise 3
+#Exercise 3 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ. ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ.
 
 #name = input('tell me your name')
 #name3 = (name * 3)
@@ -215,36 +215,36 @@
 #name6 = (name3 * 6)
 #print(name6)
 
-#Exercise 4
+#Exercise 4 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ
 
 #name = input('tell me your name')
 #times = int(input('tell me how many times'))
 #print((name) * (times))
 
-#Exercise 5
+#Exercise 5 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ
 
 #num = int(input('tell me a number'))
 #print((num) * (num))
 
-#Exercise 6
+#Exercise 6 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ
 
 #length = int(input('tell me the length'))
 #width = int(input('tell me the width'))
 #print((length) * (width))
 
-#Exercise 7
+#Exercise 7 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ
 
 #height = int(input('tell me the height'))
 #base = int(input('tell me the base'))
 #print(height * (base/2))
 
-#Exercise 8
+#Exercise 8 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ
 
 #price = float(input('tell me a price'))
 #print((price) / 100 * 24)
 
 
-#Exercise 9
+#Exercise 9 <- ZHTAEI ΣΥΝΑΡΤΗΣΗ. ΔΙΑΒΑΣΕ ΞΑΝΑ ΤΗΝ ΕΚΦΩΝΗΣΗ.
 
 #children = int(input('how many children'))
 
