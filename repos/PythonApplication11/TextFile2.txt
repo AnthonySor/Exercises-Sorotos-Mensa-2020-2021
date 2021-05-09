@@ -1,0 +1,5 @@
+Text = 'ABCDEFGHIJKLMNOPQRSTUVYXZ'
+print(Text)
+Text2 = Text(c1=1(reverse)):
+	c1=(c1()0:0:-1)):
+Print(Text2(c1=1(reverse)))
